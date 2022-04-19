@@ -1,6 +1,6 @@
 ![Old school tech](assets/vintage.jpg "Old school tech")
 
-<div align="center"><h2>About me</h2></div>
+##About me
 
 Hello world. I'm Andre Specht, a full stack developer and IT instructor based
 in Winnipeg, Canada. I'm a passionate developer focused on crafting beautiful
@@ -21,3 +21,7 @@ forward to hearing from you.
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=86ca00)
+
+### My stats
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=mrspecht)](https://github.com/mrspecht/github-readme-stats)
