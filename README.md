@@ -11,8 +11,8 @@ forward to hearing from you.
 
 ### Programming skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
-![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=86ca00)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5FC396)
+![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=5FC396)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=86ca00)
