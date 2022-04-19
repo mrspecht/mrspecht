@@ -2,7 +2,6 @@
 
 <div align="center"><h2>Hello world</h2></div>
 
-<div align="center">
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
@@ -13,4 +12,3 @@
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=86ca00)
-</div>
