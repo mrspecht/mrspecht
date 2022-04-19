@@ -9,7 +9,8 @@ the web. My programming experience includes JavaScript, React, Vue, Node,
 TypeScript, C#, Java, and Python. Do you wanna know more? Get in touch. I look
 forward to hearing from you.
 
-<div align="center">
+### Programming skills
+
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=86ca00)
@@ -20,4 +21,3 @@ forward to hearing from you.
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=86ca00)
 ![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=86ca00)
-</div>
