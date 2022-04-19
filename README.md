@@ -1,6 +1,6 @@
 ![Old school tech](assets/vintage.jpg "Old school tech")
 
-##About me
+## About me
 
 Hello world. I'm Andre Specht, a full stack developer and IT instructor based
 in Winnipeg, Canada. I'm a passionate developer focused on crafting beautiful
