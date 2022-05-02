@@ -29,4 +29,4 @@ hearing from you.
 
 ### My stats
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true)](https://github.com/mrspecht/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true)](https://github.com/mrspecht)
