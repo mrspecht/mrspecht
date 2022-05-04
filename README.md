@@ -29,4 +29,10 @@ hearing from you.
 
 ### My stats
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true)](https://github.com/mrspecht)
+<a href="https://github.com/andrespecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/andrespecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
