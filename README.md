@@ -6,7 +6,7 @@ Hello, world. I'm Andre Specht, a full-stack developer and IT instructor based
 in Winnipeg, Canada.
 
 I'm a passionate developer focused on crafting beautiful and functional 
-websites. I also love teaching and helping others to turn ideias into amazing 
+websites. I also love teaching and helping others to turn ideas into amazing 
 interactive applications.
 
 My programming experience includes JavaScript, Node, TypeScript, React,
