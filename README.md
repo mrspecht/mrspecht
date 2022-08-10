@@ -13,6 +13,8 @@ My programming experience includes JavaScript, Node, TypeScript, React,
 C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
 hearing from you.
 
+<a href="https://andrespecht.com/" target="_blank">Official website</a>
+
 ##
 
 ### My skills
@@ -42,12 +44,5 @@ hearing from you.
 </a>
 
 ##
-
-### Contact
-
-<a href="https://andrespecht.com/" target="_blank"><img src="https://img.shields.io/badge/website-%23049be5.svg?style=for-the-badge&logo=javascript&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/drespecht" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://dribbble.com/andrespecht" target="_blank"><img src="https://img.shields.io/badge/dribbble-%23ED4989.svg?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-
 
 ![Snake animation](https://github.com/mrspecht/mrspecht/blob/output/github-contribution-grid-snake.svg)
