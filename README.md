@@ -43,8 +43,11 @@ hearing from you.
 
 ##
 
-## Contact
+### Contact
 
+<a href="https://www.linkedin.com/in/drespecht" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://dribbble.com/andrespecht" target="_blank"><img src="https://img.shields.io/badge/dribbble-%23ED4989.svg?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 <a href="https://twitter.com/andrespecht" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 
 ![Snake animation](https://github.com/mrspecht/mrspecht/blob/output/github-contribution-grid-snake.svg)
