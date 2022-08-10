@@ -43,4 +43,6 @@ hearing from you.
   GitHub stats"/>
 </a>
 
+##
+
 ![Snake animation](https://github.com/mrspecht/mrspecht/blob/output/github-contribution-grid-snake.svg)
