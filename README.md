@@ -15,7 +15,7 @@ hearing from you.
 
 ##
 
-### Skills
+### My skills
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
