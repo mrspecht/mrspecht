@@ -1,4 +1,4 @@
-![Why use Git](assets/whygit.png "Why use Git")
+![Why Git](assets/whygit.png "Why Git")
 
 ## About me
 
