@@ -1,4 +1,4 @@
-![Old school tech](assets/vintage.jpg "Old school tech")
+![Why use Git](assets/whygit.png "Why use Git")
 
 ## About me
 
