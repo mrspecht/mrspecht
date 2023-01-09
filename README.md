@@ -42,7 +42,3 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
-
-##
-
-![Snake animation](https://github.com/mrspecht/mrspecht/blob/output/github-contribution-grid-snake.svg)
