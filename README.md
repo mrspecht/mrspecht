@@ -33,10 +33,10 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My stats
 
 <a href="https://github.com/mrspecht">
-  <img height="205px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrspecht&theme=github_dark" alt="My GitHub stats" />
+  <img height="205px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrspecht&theme=github" alt="My GitHub stats" />
 </a>
