@@ -33,6 +33,8 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### My stats
 
 <a href="https://github.com/mrspecht">
