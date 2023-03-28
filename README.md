@@ -13,7 +13,7 @@ My programming experience includes JavaScript, Node, TypeScript, React,
 C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
 hearing from you.
 
-Official websites: <a style="color: #2aa889" href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a style="color: #2aa889" href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
+Official websites: <a style="color:#2aa889" href="https://andrespecht.com/" target="_blank"><span style="color:#2aa889"></span>andrespecht.com</a> | <a style="color:#2aa889" href="https://andrespecht.dev/" target="_blank"><span style="color:#2aa889"></span>andrespecht.dev</a>
 
 ##
 
