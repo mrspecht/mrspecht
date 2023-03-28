@@ -38,7 +38,7 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
 ### My stats
 
 <a href="https://github.com/mrspecht">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
+  <img height="205px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={mrspecht}&theme={github_dark}" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/mrspecht">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
