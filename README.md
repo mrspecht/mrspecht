@@ -19,7 +19,7 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
 
 ### My skills
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=49c8ea) 
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=49c8ea)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=49c8ea) 
 ![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=49c8ea) 
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=49c8ea) 
