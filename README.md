@@ -13,7 +13,7 @@ My programming experience includes JavaScript, Node, TypeScript, React,
 C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
 hearing from you.
 
-Official websites: <a href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
+Official websites: <a style="color: #49c8ea" href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a style="color: #49c8ea" href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
 
 ##
 
@@ -34,7 +34,7 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 ### My stats
