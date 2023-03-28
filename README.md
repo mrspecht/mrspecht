@@ -1,4 +1,4 @@
-![Vintage tech](assets/vintage.jpg "Vintage tech")
+![Vintage tech](assets/shapes.png "Vintage tech")
 
 ## About me
 
