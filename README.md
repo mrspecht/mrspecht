@@ -34,7 +34,7 @@ Official websites: <a style="color: #49c8ea" href="https://andrespecht.com/" tar
 
 ##
 
-[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&gotham-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrspecht&gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 ### My stats
