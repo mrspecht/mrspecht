@@ -1,4 +1,4 @@
-![Banner](assets/vintage.png "Banner")
+![Banner](assets/vintage.jpg "Banner")
 
 ## About me
 
