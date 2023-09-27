@@ -1,4 +1,4 @@
-![Banner](assets/languages.png "Banner")
+![Banner](assets/javascript.gif "Banner")
 
 ## About me
 
