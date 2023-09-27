@@ -1,4 +1,4 @@
-![Banner](assets/workflow.gif "Banner")
+![Banner](assets/languages.png "Banner")
 
 ## About me
 
