@@ -1,4 +1,4 @@
-![Banner](assets/whygit.png "Banner")
+![Banner](assets/workflow.png "Banner")
 
 ## About me
 
