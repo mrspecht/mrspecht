@@ -1,4 +1,4 @@
-![Banner](assets/javascript.gif "Banner")
+![Banner](assets/flow.gif "Banner")
 
 ## About me
 
