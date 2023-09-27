@@ -17,6 +17,8 @@ Official websites: <a style="color:#2aa889" href="https://andrespecht.com/" targ
 
 ##
 
+![Banner](assets/work.gif "Banner")
+
 ### My skills
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
