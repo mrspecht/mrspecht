@@ -1,4 +1,4 @@
-![Banner](assets/javascript.gif "Banner")
+![](./assets/javascript.gif)
 
 ## About me
 
