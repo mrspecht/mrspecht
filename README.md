@@ -16,10 +16,10 @@ hearing from you.
 Official websites: <a style="color:#2aa889" href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a style="color:#2aa889" href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
 
 ##
+<p align="center">
+  <img src="./assets/tag.gif" width="180" align="center">
+</p>
 
-![Banner](assets/work.gif | width=200)
-
-### My skills
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889")/>&nbsp;
