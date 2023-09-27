@@ -17,7 +17,7 @@ Official websites: <a style="color:#2aa889" href="https://andrespecht.com/" targ
 
 ##
 
-![Banner](assets/work.gif "Banner" | width=200)
+![Banner](assets/work.gif | width=200)
 
 ### My skills
 <p align="center">
