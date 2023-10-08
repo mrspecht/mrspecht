@@ -1,4 +1,4 @@
-![](./assets/javascript.gif)
+![](./assets/projects-banner.png)
 
 ## About me
 
