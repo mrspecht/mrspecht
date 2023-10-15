@@ -1,4 +1,4 @@
-![](./assets/projects.png)
+![](./assets/languages.png)
 
 ## About me
 
