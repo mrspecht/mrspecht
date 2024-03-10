@@ -13,6 +13,8 @@ My programming experience includes JavaScript, TypeScript, React, C#, Java, and
 Python. Would you like to know more? Get in touch. I look forward to hearing 
 from you.
 
+##
+
 <img src="https://komarev.com/ghpvc/?username=mrspecht&style=for-the-badge&color=2aa889">
 
 ##
