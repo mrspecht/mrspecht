@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello, world. I'm Andre Specht, a full-stack instructor and web developer based
+Hello, world. I'm Andre Specht, a full stack instructor and web developer based
 in Winnipeg, Canada.
 
 I am a passionate developer focused on creating beautiful and functional
