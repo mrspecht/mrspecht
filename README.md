@@ -2,15 +2,21 @@
 
 ## About me
 
-Hello, world. I'm Andre Specht, a full stack instructor and web developer based
-in Winnipeg, Canada.
+Hi there. I'm Andre Specht, a Post-Secondary Instructor and Web Developer
+based in Winnipeg, Canada.
 
-I am a passionate developer focused on creating beautiful and functional
-websites. I also love teaching and helping others to transform ideas into 
-interactive applications.
+With over 20 years of teaching experience under my belt, I have dedicated the
+past 4 years to empowering domestic and international students to create amazing
+things with a computer.
 
-My programming experience includes JavaScript, TypeScript, React, C#, Java, and 
-Python. Would you like to know more? Get in touch. I look forward to hearing 
+As both an instructor and developer, I've discovered a perfect synergy between
+my passions. Teaching allows me to share my knowledge and expertise with
+aspiring developers, while my work as a web developer provides real-world
+insights that enrich my teaching. By merging these roles, I offer students a
+comprehensive learning experience that helps them succeed in an ever-evolving
+field.
+
+Would you like to know more? Get in touch. I look forward to hearing 
 from you.
 
 <br />
