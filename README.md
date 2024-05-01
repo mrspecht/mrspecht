@@ -6,7 +6,7 @@ Hi there. I'm Andre Specht, a Post-Secondary Instructor and Web Developer
 based in Winnipeg, Canada.
 
 With over 20 years of teaching experience under my belt, I have dedicated the
-past 4 years to empowering domestic and international students to create amazing
+past 5 years to empowering domestic and international students to create amazing
 things with a computer.
 
 As both an instructor and developer, I've discovered a perfect synergy between
