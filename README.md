@@ -2,19 +2,20 @@
 
 ## About me
 
-Hi there. I'm Andre Specht, a Post-Secondary Instructor and Web Developer
-based in Winnipeg, Canada.
+Hi there! I’m Andre Specht, a passionate Web Developer and Post-Secondary 
+Instructor based in Winnipeg, Canada. With over 20 years of experience, I’ve 
+spent the last five years empowering domestic and international students to 
+design and create impactful web applications.
 
-With over 20 years of teaching experience under my belt, I have dedicated the
-past 5 years to empowering domestic and international students to create amazing
-things with a computer.
+Currently, I’m a full-time instructor at the Manitoba Institute of Trades and 
+Technology (MITT), where I guide students through the foundations of Web 
+Development, helping them build the skills needed to navigate an ever-evolving 
+tech landscape.
 
-As both an instructor and developer, I've discovered a perfect synergy between
-my passions. Teaching allows me to share my knowledge and expertise with
-aspiring developers, while my work as a web developer provides real-world
-insights that enrich my teaching. By merging these roles, I offer students a
-comprehensive learning experience that helps them succeed in an ever-evolving
-field.
+Beyond teaching, I’ve worked on a wide range of projects, from personal sites 
+to complex applications. These real-world experiences have sharpened my 
+problem-solving skills and helped me refine the best practices that I now share 
+with my students.
 
 Would you like to know more? Get in touch. I look forward to hearing 
 from you.
