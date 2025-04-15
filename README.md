@@ -2,23 +2,22 @@
 
 ## About me
 
-Hi there! I’m Andre Specht, an experienced developer and instructor with over 
+Hi there! I’m Andre Specht, an experienced instructor and developer with over 
 10 years of helping adult learners build skills through practical, engaging 
 training. I bring together a background in tech, instructional design, and a 
 genuine love for making complex topics easier to understand. Over the years, 
-I’ve worked with different teams to design courses, guide learners through 
-challenges, and improve materials based on what works best for them.
+I’ve collaborated with teams to design courses, deliver hands-on instruction, 
+and prepare learners for the challenges of the tech industry.
 
 Right now, I help people break into tech by teaching web development and 
 programming in ways that are approachable and aligned with industry needs. I 
-focus on building confidence, encouraging curiosity, and supporting learners as 
-they grow both their technical and professional skills.
+focus on building confidence, sparking curiosity, and supporting learners as 
+they develop both technical and professional skills.
 
-Beyond teaching, I’ve also built a range of projects, from personal websites to 
-more complex applications. These real-world experiences have strengthened my 
-problem-solving skills and shaped the best practices I now share with both 
-domestic and international learners. They’ve also helped me stay grounded in 
-what people need to grow and succeed in an ever-evolving tech landscape.
+Beyond teaching, I’ve built a variety of projects, from personal websites to 
+more complex web applications. These real-world experiences have sharpened my 
+problem-solving skills and continue to shape the practical insights I share 
+with learners from around the world.
 
 Would you like to know more? Get in touch. I look forward to hearing 
 from you.
