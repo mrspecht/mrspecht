@@ -17,7 +17,7 @@ they develop both technical and professional skills.
 Beyond teaching, I’ve built a variety of projects, from personal websites to 
 more complex web applications. These real-world experiences have sharpened my 
 problem-solving skills and continue to shape the practical insights I share 
-with learners from around the world.
+with learners across Canada.
 
 Would you like to know more? Get in touch. I look forward to hearing 
 from you.
