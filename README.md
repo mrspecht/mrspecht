@@ -11,9 +11,9 @@ genuine passion for making complex topics easier to understand. Over the years,
 I’ve worked with cross-functional teams to design courses, deliver hands-on 
 instruction, and prepare learners for roles in software and digital innovation.
 
-Right now, I help people launch their careers in IT by teaching web development 
-and programming in ways that are approachable and aligned with industry needs. 
-I focus on building confidence, sparking curiosity, and supporting learners as 
+Right now, I mentor future developers by teaching web technologies and 
+programming in ways that are approachable and aligned with industry needs. My 
+focus is on building confidence, sparking curiosity, and supporting learners as 
 they develop both technical and professional skills.
 
 Beyond teaching, I’ve built a variety of projects, from personal websites to 
