@@ -4,7 +4,7 @@
 
 Hi there!
 
-I’m Andre Specht, an instructor and developer with over 10 years of experience 
+I’m Andre Specht, an Instructor and Developer with over 10 years of experience 
 helping adult learners build real-world skills through practical, engaging 
 training. I bring together a background in coding, instructional design, and a 
 genuine passion for making complex topics easier to understand. Over the years, 
