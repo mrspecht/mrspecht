@@ -2,11 +2,11 @@
 
 ## About me
 
-I’m Andre Specht, an Instructor and Developer with with over a decade of 
-experience helping adult learners build real-world skills through practical, 
-engaging training. With a background in education, coding, and design, I’m 
-passionate about making complex topics easier to understand and creating 
-learning experiences that make an impact.
+I’m Andre Specht, an Instructor and Developer with over a decade of experience 
+helping adult learners build real-world skills through practical, engaging 
+training. With a background in education, coding, and design, I’m passionate 
+about making complex topics easier to understand and creating learning 
+experiences that make an impact.
 
 Over the years, I’ve worked with cross-functional teams to design courses, 
 deliver hands-on instruction, and prepare learners for roles in software and 
