@@ -2,26 +2,23 @@
 
 ## About me
 
-Hi there!
+I’m Andre Specht, an Instructor and Developer with with over 10 years of 
+experience helping adult learners build real-world skills through practical, 
+engaging training. With a background in education, coding, and design, I’m 
+passionate about making complex topics easier to understand and creating 
+learning experiences that make an impact.
 
-I’m Andre Specht, an Instructor and Developer with over 10 years of experience 
-helping adult learners build real-world skills through practical, engaging 
-training. I bring together a background in coding, instructional design, and a 
-genuine passion for making complex topics easier to understand. Over the years, 
-I’ve worked with cross-functional teams to design courses, deliver hands-on 
-instruction, and prepare learners for roles in software and digital innovation.
+Over the years, I’ve worked with cross-functional teams to design courses, 
+deliver hands-on instruction, and prepare learners for roles in software and 
+digital innovation. Right now, I mentor future developers by teaching web 
+technologies and programming in ways that are approachable and aligned with 
+what the industry actually needs.
 
-Right now, I mentor future developers by teaching web technologies and 
-programming in ways that are approachable and aligned with industry needs. My 
-focus is on building confidence, sparking curiosity, and supporting learners as 
-they develop both technical and professional skills.
-
-Beyond teaching, I’ve built a variety of projects, from personal websites to 
-more complex web applications. These real-world experiences have sharpened my 
-problem-solving skills and continue to shape the practical insights I share 
-with learners across Canada.
-
-Want to know more? Get in touch! I look forward to hearing from you.
+My focus is on building confidence, sparking curiosity, and supporting learners 
+as they develop both technical and professional skills. Beyond teaching, I’ve 
+built everything from personal websites to more complex web applications. These 
+real-world experiences keep my problem-solving skills sharp and continue to 
+shape the practical insights I share with learners across Canada.
 
 <br />
 
