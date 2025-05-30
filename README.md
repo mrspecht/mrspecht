@@ -16,8 +16,8 @@ aligned with real industry needs.
 
 Beyond empowering others to learn and grow, I stay active as a developer — 
 building everything from personal websites to complex web applications. These 
-real-world projects sharpen my problem-solving skills and guide the practical 
-insights I share with learners across Canada.
+real-world experiences keep my problem-solving skills sharp and continually 
+guide the practical insights I share with learners across Canada.
 
 <br />
 
