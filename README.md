@@ -2,24 +2,22 @@
 
 ## About me
 
-I’m Andre Specht, an Instructor and Developer with over 10 years of experience 
+I’m Andre Specht, an instructor and developer with over 10 years of experience 
 helping adult learners build real-world skills through practical, engaging 
-training. With a background in education, coding, and design, I’m passionate 
-about making complex topics accessible and creating learning experiences that 
-truly make a difference.
+training. With a background spanning education, coding, and design, I’m 
+passionate about making complex topics accessible and designing learning 
+experiences that develop practical expertise.
 
-Over the years, I’ve worked with cross-functional teams to design courses, 
+Over the years, I’ve collaborated with cross-functional teams to design courses, 
 deliver hands-on instruction, and prepare learners for careers in software 
-development and digital innovation. Currently, I mentor future developers by 
+development and digital innovation. Currently, I mentor aspiring developers by 
 teaching web technologies and programming in ways that are approachable and 
 aligned with real industry needs.
 
-My focus is on building confidence, sparking curiosity, and supporting learners 
-as they develop both technical and professional skills. Beyond helping people 
-grow and succeed, I stay active as a developer — building everything from 
-personal websites to complex web applications. These real-world experiences 
-keep my problem-solving skills sharp and continuously shape the practical 
-insights I bring to my teaching.
+Beyond empowering others to learn and grow, I stay active as a developer — 
+building everything from personal websites to complex web applications. These 
+real-world projects sharpen my problem-solving skills and guide the practical 
+insights I share with learners across Canada.
 
 <br />
 
