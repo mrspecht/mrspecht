@@ -19,7 +19,7 @@ as they develop both technical and professional skills. Beyond empowering
 others to grow, I stay active as a developer — building everything from 
 personal websites to complex web applications. These experiences keep my 
 problem-solving sharp and guide the practical insights I bring to every course 
-I design.
+I lead.
 
 <br />
 
