@@ -12,7 +12,8 @@ Over the years, I’ve collaborated with cross-functional teams to design course
 deliver hands-on instruction, and prepare students for careers in software 
 development and digital innovation. Currently, I mentor aspiring developers by 
 teaching web technologies and programming in ways that are approachable and 
-aligned with real industry needs.
+aligned with real industry needs. I also revise curricula and develop resources 
+that make learning more effective.
 
 My focus is on building confidence, sparking curiosity, and supporting learners 
 as they develop both technical and professional skills. Beyond empowering 
