@@ -4,8 +4,8 @@
 
 I’m Andre Specht, an instructor and developer with over 10 years of experience 
 helping adult learners build skills through effective, engaging training. With 
-a background spanning education, coding, and design, I’m passionate about 
-making complex topics accessible and creating learning experiences that drive 
+a background in education, coding, and design, I’m passionate about making 
+complex topics accessible and creating learning experiences that drive 
 meaningful results.
 
 Over the years, I’ve collaborated with cross-functional teams to design courses, 
