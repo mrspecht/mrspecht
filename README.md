@@ -2,25 +2,24 @@
 
 ## About me
 
-I’m Andre Specht, an instructor and developer with over 10 years of experience 
-helping adult learners build skills through effective, engaging training. With 
-a background in education, coding, and design, I’m passionate about making 
-complex topics accessible and creating learning experiences that drive 
-meaningful results.
+I’m Andre Specht, an educator and developer with over 10 years of experience 
+helping learners build skills through effective, engaging training. With a 
+background in adult education, learning design, and coding, I’m passionate 
+about making complex topics accessible and creating learning experiences that 
+drive meaningful results.
 
-Over the years, I’ve collaborated with cross-functional teams to design courses, 
-deliver hands-on instruction, and prepare students for careers in software 
-development and digital innovation. Currently, I mentor aspiring developers by 
-teaching web technologies and programming in ways that are approachable and 
-aligned with real industry needs. I also revise curricula and develop resources 
-that make learning more effective.
+Throughout my career, I’ve collaborated with cross-functional teams to design 
+courses, deliver hands-on instruction, and prepare students for careers in 
+software development and digital innovation. Currently, I mentor aspiring 
+developers by teaching web technologies and programming in ways that are 
+approachable, practical, and aligned with industry needs. I also revise 
+curricula and develop instructional resources that make learning more effective 
+and memorable.
 
-My focus is on building confidence, sparking curiosity, and supporting learners 
-as they develop both technical and professional skills. Beyond empowering 
-others to grow, I stay active as a developer — building everything from 
-personal websites to complex web applications. These experiences keep my 
-problem-solving sharp and guide the practical insights I bring to every course 
-I lead.
+Beyond helping others learn and grow, I stay active as a developer — building 
+everything from personal websites to complex web applications. These 
+experiences keep my problem-solving skills sharp and guide the practical 
+insights I bring to every course I lead.
 
 <br />
 
