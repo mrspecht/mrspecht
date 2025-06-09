@@ -2,11 +2,11 @@
 
 ## About me
 
-I’m Andre Specht, an educator and developer with over 10 years of experience 
-helping learners build skills through effective, engaging training. With a 
-background in adult education, learning design, and coding, I’m passionate 
-about making complex topics accessible and creating learning experiences that 
-drive meaningful results.
+Educator and developer with over 10 years of experience helping learners build 
+skills through effective, engaging training. With a background in adult 
+education, learning design, and coding, I’m passionate about making complex 
+topics accessible and creating learning experiences that drive meaningful 
+results.
 
 Throughout my career, I’ve collaborated with cross-functional teams to design 
 courses, deliver hands-on instruction, and prepare students for careers in 
