@@ -2,24 +2,13 @@
 
 ## About me
 
-Educator and developer with over 10 years of experience helping learners build 
-skills through effective, engaging training. With a background in adult 
-education, learning design, and coding, I’m passionate about making complex 
-topics accessible and creating learning experiences that drive meaningful 
-results.
+Educator and developer with over 10 years of experience helping learners build skills through effective, engaging training. With a background in adult education, learning design, and coding, I’m passionate about making complex topics accessible and designing learning experiences that drive meaningful results.
 
-Throughout my career, I’ve collaborated with cross-functional teams to design 
-courses, deliver hands-on instruction, and prepare students for careers in 
-software development and digital innovation. Currently, I mentor aspiring 
-developers by teaching web technologies and programming in ways that are 
-approachable, practical, and aligned with industry needs. I also revise 
-curricula and develop instructional resources that make learning more effective 
-and memorable.
+I bring strong communication and interpersonal skills to my work, with a focus on fostering inclusive environments that reflect diverse cultural perspectives. My extensive experience with LMS platforms supports successful learning outcomes and ensures smooth delivery in both in-person and online settings.
 
-Beyond helping others learn and grow, I stay active as a developer — building 
-everything from personal websites to complex web applications. These 
-experiences keep my problem-solving skills sharp and guide the practical 
-insights I bring to every course I lead.
+Over the years, I’ve worked closely with cross-functional teams to design courses, deliver hands-on instruction, and prepare students for careers in software development and digital innovation. Currently, I mentor aspiring developers by teaching web technologies and programming in ways that are approachable, practical, and aligned with industry needs. I also revise curricula and create instructional resources that make learning more effective and memorable.
+
+Beyond helping others learn and grow, I stay active as a developer — building everything from personal websites to complex web applications. These experiences keep my problem-solving skills sharp and guide the practical insights I bring to every course I design and deliver.
 
 <br />
 
