@@ -8,7 +8,7 @@ I bring strong communication and interpersonal skills to my work, with a focus o
 
 Over the years, I’ve worked closely with cross-functional teams to design courses, deliver hands-on instruction, and prepare students for careers in software development and digital innovation. Currently, I mentor aspiring developers by teaching web technologies and programming in ways that are approachable, practical, and aligned with industry needs. I also revise curricula and create instructional resources that make learning more effective and memorable.
 
-Beyond helping others learn and grow, I stay active as a developer — building everything from personal websites to complex web applications. These experiences keep my problem-solving skills sharp and guide the practical insights I bring to every course I design and deliver.
+Beyond helping others learn and grow, I stay active as a developer — building everything from personal websites to complex web applications. This experience keeps my problem-solving skills sharp and guides the practical insights I bring to every course I design and deliver.
 
 <br />
 
