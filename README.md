@@ -2,11 +2,11 @@
 
 ## About me
 
-Educator and developer with over 10 years of experience helping learners build skills through effective, engaging training. With a background in adult education, learning design, and coding, I’m passionate about making complex topics accessible and designing learning experiences that drive meaningful results.
+Educator and developer with over 10 years of experience helping learners build skills through effective, engaging training. With a strong background in adult education, learning design, and coding, I’m passionate about making complex topics accessible and designing learning experiences that drive meaningful results.
 
 I bring strong communication and interpersonal skills to my work, with a focus on fostering inclusive environments that reflect diverse cultural perspectives. My extensive experience with LMS platforms supports successful learning outcomes and ensures smooth delivery in both in-person and online settings.
 
-Over the years, I’ve worked closely with cross-functional teams to design courses, deliver hands-on instruction, and prepare students for careers in software development and digital innovation. Currently, I mentor aspiring developers by teaching web technologies and programming in ways that are approachable, practical, and aligned with industry needs. I also revise curricula and create instructional resources that make learning more effective and memorable.
+Over the years, I’ve collaborated with academic stakeholders and industry experts to design courses, deliver hands-on instruction, and prepare students for careers in software development and digital innovation. Currently, I mentor aspiring developers by teaching web technologies and programming in ways that are approachable, practical, and aligned with industry needs. I also revise curricula and create instructional resources that make learning more effective and memorable.
 
 Beyond helping others learn and grow, I stay active as a developer — building everything from personal websites to complex web applications. This experience keeps my problem-solving skills sharp and guides the practical insights I bring to every course I design and deliver.
 
