@@ -25,8 +25,8 @@ rewarding cycle that continues to motivate my work.
 
 Beyond helping others learn and grow, I stay active as a developer, building 
 everything from personal websites to complex web applications. This hands-on 
-work keeps my problem-solving skills sharp and guides the practical insights I 
-bring to every course I design and deliver.
+experience keeps my problem-solving skills sharp and guides the practical 
+insights I bring to every course I design and deliver.
 
 <br />
 
