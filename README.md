@@ -8,7 +8,7 @@ education, learning design, and coding, I'm passionate about making complex
 topics accessible and designing learning experiences that drive meaningful 
 results.
 
-I bring strong communication and interpersonal skills to this work, with a 
+I bring strong communication and interpersonal skills to my work, with a 
 focus on creating inclusive environments that reflect diverse cultural 
 perspectives. My extensive experience with LMS platforms supports successful 
 learning outcomes and ensures smooth delivery in both in-person and online 
