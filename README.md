@@ -2,13 +2,11 @@
 
 ## About me
 
-Educator and developer with over 10 years of experience helping learners build skills through effective, engaging training. With a background in adult education, learning design, and coding, I'm passionate about making complex topics accessible and designing learning experiences that drive meaningful results.
+Educator and developer with over 10 years of experience helping learners build skills through effective, engaging training. With a background in adult education, learning design, and coding, I’m passionate about making complex topics accessible and designing learning experiences that drive meaningful results.
 
-I bring strong communication and interpersonal skills to my work, with a focus on creating inclusive environments that reflect diverse cultural perspectives. My extensive experience with LMS platforms supports successful learning outcomes and ensures smooth delivery in both in-person and online settings.
+Working with academic stakeholders and industry experts, I’ve designed courses, delivered hands-on instruction, and prepared students for careers in software development and digital innovation. Watching them gain confidence, build experience, land their first jobs, and even return as instructors has been incredibly fulfilling. These moments reflect the impact of effective teaching and continually remind me why I’m so passionate about this work.
 
-Working with academic stakeholders and industry experts, I've designed courses, delivered hands-on instruction, and prepared students for careers in software development and digital innovation. This teamwork has made a real difference: we've seen higher course success rates, helped many students land their first jobs in tech, and even watched some graduates become instructors — a rewarding cycle that serves as a constant source of inspiration and motivation.
-
-Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to complex web applications. This hands-on experience keeps my problem-solving skills sharp and guides the practical insights I bring to every course I design and deliver.
+Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to complex web applications. This hands-on experience keeps my problem-solving skills sharp and informs the practical insights I bring to every course I design and deliver.
 
 <br />
 
