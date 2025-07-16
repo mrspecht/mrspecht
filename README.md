@@ -2,7 +2,7 @@
 
 ## About me
 
-Learning specialist and developer with over 10 years of experience helping people build skills through effective and engaging training. With a background in adult education, instructional design, and coding, I'm passionate about making complex topics accessible and designing learning experiences that get real results.
+Educator and developer with over 10 years of experience helping people build skills through effective and engaging training. With a background in adult education, instructional design, and coding, I'm passionate about making complex topics accessible and designing learning experiences that get real results.
 
 Collaborating with academic stakeholders and industry experts, I've designed courses, developed curriculum, and prepared students for careers in software development and digital innovation. Watching learners gain confidence, build experience, land their first jobs, and even become instructors has been incredibly fulfilling. These moments show the impact of effective learning and continually remind me why I'm so passionate about this work.
 
