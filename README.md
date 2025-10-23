@@ -2,11 +2,11 @@
 
 ## About me
 
-Educator and developer with over 10 years of experience helping people build skills through effective and engaging training. With a background in adult education, instructional design, and coding, I'm passionate about making complex topics accessible and creating learning experiences that get real results.
+Educator and developer with over 10 years of experience helping people build skills through meaningful training. With a strong background in adult education, instructional design, and coding, I’m passionate about making complex topics accessible and creating learning experiences that lead to real results.
 
-Collaborating with academic stakeholders and industry experts, I've designed courses, developed curriculum, and prepared learners for careers in software development and digital innovation. Watching my students gain confidence, build experience, land their first jobs, and even become instructors has been incredibly fulfilling. These moments show the impact of effective teaching and constantly remind me why I'm so passionate about this work.
+Over the years, I’ve partnered with instructors and industry experts to design courses, develop curriculum, and prepare learners for careers in software development and digital innovation. Seeing students gain confidence, build experience, and land their first roles is incredibly rewarding. Some have even returned as instructors, which speaks to the lasting impact of thoughtful course design and reminds me why this work matters.
 
-Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to complex web applications. This hands-on experience keeps my problem-solving skills sharp while informing the practical insights I bring to every course I design and deliver.
+Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to full-scale web applications. This hands-on work keeps my problem-solving skills sharp and ensures the insights I bring to teaching are grounded in real-world practice. Whether I’m designing a course or writing code, I’m focused on creating solutions that make a real difference for the people who use them.
 
 <br />
 
