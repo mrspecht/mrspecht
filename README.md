@@ -2,11 +2,9 @@
 
 ## About me
 
-Educator and developer with over 10 years of experience helping people build skills through meaningful training. With a strong background in adult education, instructional design, and coding, I’m passionate about making complex topics accessible and creating learning experiences that lead to real results.
+Instructor and developer with over a decade of experience helping learners build skills through engaging, hands-on training. With a background in adult education, learning design, and coding, I’m passionate about making complex topics easy to understand and creating learning experiences where people feel supported and motivated.
 
-Over the years, I’ve partnered with instructors and industry experts to design courses, develop curriculum, and prepare learners for careers in software development and digital innovation. Seeing students gain confidence, build experience, and land their first roles is incredibly rewarding. Some have even returned as instructors, which speaks to the lasting impact of thoughtful course design and reminds me why this work matters.
-
-Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to full-scale web applications. This hands-on work keeps my problem-solving skills sharp and ensures the insights I bring to teaching are grounded in real-world practice. Whether I’m designing a course or writing code, I’m focused on creating solutions that make a real difference for the people who use them.
+Currently, I design technical courses and mentor aspiring developers, teaching web technologies and programming in ways that are approachable, relevant, and aligned with today’s tech landscape.
 
 <br />
 
