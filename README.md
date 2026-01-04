@@ -2,11 +2,13 @@
 
 ## About me
 
-I’m a learning specialist and developer with over a decade of experience helping people build skills through meaningful, hands-on training. With a background in adult education, instructional design, and coding, I’m passionate about making complex ideas accessible and creating learning experiences that address real needs.
+I’m a learning specialist and developer with over a decade of experience helping people build skills through engaging, meaningful training. With a background in adult learning, instructional design, and technical education, I’m passionate about making complex ideas accessible and creating learner-centred experiences that meet real-world needs.
 
-I’m driven by connecting organizational goals with what learners actually need to succeed. I design solutions that help learners develop expertise and apply their knowledge in practical settings, while delivering measurable impact for organizations.
+At the heart of my work is a genuine commitment to learning environments where people feel supported, included, and empowered to succeed. I believe learning is most effective when individuals feel understood, so I prioritize collaboration, open communication, and building trusting relationships with learners and colleagues.
 
-I also stay active as a developer, building everything from personal websites to full-scale applications. This keeps my problem-solving sharp and ensures I can quickly adapt to any tool, system, or technology.
+Throughout my career, I’ve partnered with subject matter experts and stakeholders to design courses, develop curriculum, and support learners preparing for careers in software development and digital innovation. I rely on data, feedback, and evaluation to identify gaps, refine content, and strengthen effectiveness across the full learning lifecycle.
+
+Beyond helping others learn and grow, I stay active as a developer, building everything from personal websites to full-scale applications. This hands-on practice keeps my problem-solving skills sharp and ensures my design decisions are grounded in real-world experience.
 
 <br />
 
