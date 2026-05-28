@@ -2,13 +2,13 @@
 
 ## About me
 
-Learning designer and developer with over a decade of experience helping people build skills through engaging, practical training. With a background in adult learning, instructional design, and technical education, I’m passionate about making complex ideas accessible and creating learner-centred experiences that meet real-world needs.
+I’m a Learning & Development specialist with over a decade of experience helping people build skills and improve performance through engaging, practical programs. With a background in adult learning, technical education, and software development, I focus on making complex ideas accessible and creating learner-centred experiences that support real-world application.
 
-At the heart of my work is a commitment to learning environments where people feel supported, included, and confident in their ability to succeed. I believe learning is most effective when people feel understood, which is why I prioritize collaboration, open communication, and building trusting relationships with learners and colleagues.
+At the core of my work is a commitment to creating environments where people feel supported, included, and confident in their ability to succeed. I believe professional development is most effective when collaboration and clear communication create shared understanding, which is why I prioritize strong relationships with learners, colleagues, and partners.
 
-Throughout my career, I’ve partnered with subject matter experts and stakeholders to design courses, develop curriculum, and support learners preparing for careers in software development and digital innovation. I use data, feedback, and evaluation to identify gaps, refine content, and improve outcomes across the learning lifecycle.
+Throughout my career, I’ve collaborated with subject matter experts and stakeholders to analyze learning needs, design courses, develop training materials, and create clear documentation. I use data, feedback, and evaluation to identify gaps, refine content, and improve learning outcomes throughout the development process.
 
-I also bring a strong technical foundation shaped by hands-on experience with development tools, applications, and systems. This keeps my problem-solving skills sharp and allows me to adapt quickly to different technologies and platforms used across learning and technical environments.
+I also bring a strong technical foundation shaped by hands-on experience with development tools, applications, and systems. This allows me to translate complex workflows into structured learning resources, design for multiple delivery formats, and support learning initiatives across both academic and corporate environments.
 
 <br />
 
